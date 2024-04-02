@@ -16,3 +16,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.axelites.com/wp-content/uploads/2023/08/laravel-seeklogo.com_.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354020/lua.svg" alt="lua" width="40" height="40"/> </a> </p>
+
+![](https://discord.c99.nl/widget/theme-1/673851067263614997.png)
